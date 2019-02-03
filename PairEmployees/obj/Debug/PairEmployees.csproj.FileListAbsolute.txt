@@ -1,0 +1,7 @@
+c:\users\arkan\source\repos\PairEmployees\PairEmployees\bin\Debug\PairEmployees.exe.config
+c:\users\arkan\source\repos\PairEmployees\PairEmployees\bin\Debug\PairEmployees.exe
+c:\users\arkan\source\repos\PairEmployees\PairEmployees\bin\Debug\PairEmployees.pdb
+c:\users\arkan\source\repos\PairEmployees\PairEmployees\obj\Debug\PairEmployees.csproj.CoreCompileInputs.cache
+c:\users\arkan\source\repos\PairEmployees\PairEmployees\obj\Debug\PairEmployees.exe
+c:\users\arkan\source\repos\PairEmployees\PairEmployees\obj\Debug\PairEmployees.pdb
+c:\users\arkan\source\repos\PairEmployees\PairEmployees\obj\Debug\PairEmployees.csprojAssemblyReference.cache
